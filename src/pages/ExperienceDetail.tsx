@@ -1,5 +1,4 @@
 import { useParams, Link } from 'react-router-dom';
-import { motion } from 'framer-motion';
 import { Heart, Diamond, Briefcase, Wine, Camera, ArrowLeft, WhatsappLogo, CheckCircle, ShieldCheck } from 'phosphor-react';
 
 const experiencesData = [

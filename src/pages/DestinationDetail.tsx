@@ -1,5 +1,4 @@
 import { useParams, Link } from 'react-router-dom';
-import { motion } from 'framer-motion';
 import { destinations } from '../data/destinations';
 import { ArrowLeft, WhatsappLogo, CheckCircle, Calendar, Sun } from 'phosphor-react';
 import { packages } from '../data/packages';
